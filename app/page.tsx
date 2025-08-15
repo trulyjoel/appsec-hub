@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className="min-h-screen flex items-center justify-center">
       <Link href="/dashboard">
-        <Button>Go to Dashboard</Button>
+        <Button>Go to KPI Dashboard</Button>
       </Link>
     </div>
   )
